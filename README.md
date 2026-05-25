@@ -6,5 +6,4 @@ Features:
  - Custom types too!
 
 To be added:
-- Perspective matrix function
 - Orthogonal matrix function
